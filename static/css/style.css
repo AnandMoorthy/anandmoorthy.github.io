@@ -1,0 +1,48 @@
+.container {
+    background-image: url("../images/who_cares.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.greetingContainer {
+    margin: 8em 1em 1em 7em;
+    
+}
+
+.greetingText {
+    display: inline;
+    font-size: 2.5em;
+    color: white;
+    text-shadow: 1px 1px 4px #000000;
+}
+
+.descriptionContainer {
+    margin: 5em 12em;
+}
+
+.descriptionText {
+    display: inline;
+    font-size: 2em;
+    color: white;
+    text-shadow: 1px 1px 4px #000000;
+    font-family: "Sans-serif";
+}
+
+.connectionsContainer {
+    text-align: center;
+}
+
+.connectionHoverStyle:hover {
+    color: lightsalmon
+}
+
+.connectionStyle {
+    padding: 0em 1em;
+    font-size: 4em;
+    color: white;
+    text-shadow: 1px 1px 1px #000000;
+}
+
+.connectionLabelStyle {
+    font-size: 2em;
+}
